@@ -1,0 +1,13 @@
+[package]
+name = "w3c-idl-extractor"
+version = "0.1.0"
+authors = ["Richard Dodd <richard.dodd@itp-group.co.uk>"]
+
+[dependencies]
+html5ever = "*"
+failure = "*"
+failure_derive = "*"
+
+[dev-dependencies]
+ansi_term = "*"
+
